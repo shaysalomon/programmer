@@ -1,0 +1,117 @@
+
+/* HTML TAGS */
+
+body {
+  font-family: 'Montserrat';
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'Montserrat';
+  font-weight: 900;
+}
+
+p {
+  color: #8F8F8F;
+}
+
+/* Containers */
+
+.container-fluid {
+  padding: 7% 15%;
+}
+
+#title .container-fluid {
+  padding: 3% 15% 7%;
+  text-align: left;
+}
+
+#features .container-fluid {
+  padding: 3% 15%;
+  text-align: center;
+}
+
+/* Sections */
+
+.colored-section {
+  background-color: #212125;
+  color: #49D292;
+}
+
+.white-section {
+  background-color: #FFF;
+}
+
+.big-heading {
+  font-family: 'Montserrat';
+  font-size: 3.5rem;
+  line-height: 1.5;
+  font-weight: 900;
+}
+
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+/* Navbar */
+
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: 400;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: 'Montserrat';
+  font-weight: 100;
+}
+
+/* Title */
+
+.title-image {
+  width: 80%;
+}
+
+/* Features */
+
+.feature-box {
+  padding: 5%;
+}
+
+.icon {
+  color: #49D292;
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color: #7FDA89;
+}
+
+/* Engines */
+
+#engines {
+  padding: 100px;
+}
+
+.engines-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.engines-column {
+  padding: 3% 2%;
+}
+
+.social-icon {
+  margin: 20px 10px;
+}
